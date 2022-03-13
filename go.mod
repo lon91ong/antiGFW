@@ -1,4 +1,4 @@
-module github.com/tomyangsh/antiGFW
+module github.com/lon91ong/pacGen
 
 go 1.15
 
